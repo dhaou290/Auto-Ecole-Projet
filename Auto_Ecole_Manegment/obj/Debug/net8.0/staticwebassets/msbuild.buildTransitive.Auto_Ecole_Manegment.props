@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Auto_Ecole_Manegment.props" />
+</Project>
